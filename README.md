@@ -1,2 +1,2 @@
 # hello-world
-Refreshing my memory
+Refreshing my github skills, both in the gui and cmd.
